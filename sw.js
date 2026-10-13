@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ucwo-cte1-v3';
+const CACHE_NAME = 'ucwo-cte1-v4';
 
 // Only pre-cache the essential UI shell immediately
 const CORE_ASSETS = [
