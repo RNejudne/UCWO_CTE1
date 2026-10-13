@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ucwo-cte1-v6';
+const CACHE_NAME = 'ucwo-cte1-v7';
 
 // Only pre-cache the essential UI shell immediately
 const CORE_ASSETS = [
@@ -15,7 +15,7 @@ const PDF_ASSETS = [
   './pdfs/program-of-activities.pdf',
   './pdfs/opening-worship.pdf',
   './pdfs/morning-devotion.pdf',
-  './pdfs/closing-worship-evaluation.pdf'
+  './pdfs/closing-worship-evaluation-v2.pdf'
 ];
 
 self.addEventListener('install', (event) => {
